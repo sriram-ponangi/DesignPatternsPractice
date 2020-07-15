@@ -1,5 +1,5 @@
 ## NOTES:
-- Open-Closed Principle is violated by:
+- Open-Closed Principle is violated:
     - **ShapeFactory** class violates this principle because every time 
     a new implementation for the shape is created this ShapeFactory class will 
     require modification. Therefore this is not closed for modification.
