@@ -1,4 +1,4 @@
-package creational.factoryMethod.example2;
+package creational.abstractFactory.example1;
 
 public interface Shape {
     void draw();

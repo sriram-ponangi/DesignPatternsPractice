@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("FACTORY METHOD PATTERN: \n");
         DrawCircleOnCanvas circle = new DrawCircleOnCanvas();
-        circle.draw("Red");
+        circle.sketch("Red");
 
         DrawSquareOnCanvas square = new DrawSquareOnCanvas();
-        square.draw("Red");
+        square.sketch("Red");
     }
 }
