@@ -36,3 +36,4 @@ public class CarBuilder implements Builder{
         return new Car(seats, fuelType, maxSpeed, carType, price) ;
     }
 }
+
