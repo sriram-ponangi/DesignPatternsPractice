@@ -1,4 +1,4 @@
-package behavioural.adapter.example1;
+package structural.adapter.example1;
 
 public interface Pencil {
     void write(String text);
