@@ -7,10 +7,9 @@ access to) for the client.
 - Type of proxy:   
     - **Virtual proxy**: Used to control access to an object
      that is expensive to create. (Ex: Caching)
-        - **[Example-1]()** Similar to Singleton
+        - **[Example-1](https://github.com/sriram-ponangi/DesignPatternsPractice/tree/master/src/structural/proxy/example1)** Similar to Singleton
     - **Protection proxy**: Used to control access to an object
     based on the access rights of the client.
-        - **[Example-2]()**
+        - **[Example-2](https://github.com/sriram-ponangi/DesignPatternsPractice/tree/master/src/structural/proxy/example2)**
     - **Remote proxy**: To interact with an object or something that 
     is outside of the application.
-        - **[Example-3]()**
