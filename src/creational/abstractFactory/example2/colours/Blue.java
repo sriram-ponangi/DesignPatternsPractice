@@ -1,4 +1,4 @@
-package creational.abstractFactory.example2;
+package creational.abstractFactory.example2.colours;
 
 public class Blue implements Colour {
     @Override

@@ -1,4 +1,4 @@
-package creational.abstractFactory.example1;
+package creational.abstractFactory.example1.characters;
 
 public class RedCharacter implements Character {
     @Override

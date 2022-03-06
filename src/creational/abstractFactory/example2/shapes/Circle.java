@@ -1,4 +1,4 @@
-package creational.abstractFactory.example2;
+package creational.abstractFactory.example2.shapes;
 
 public class Circle implements Shape {
     @Override

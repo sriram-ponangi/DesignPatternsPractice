@@ -1,6 +1,6 @@
-package creational.abstractFactory.example1;
+package creational.abstractFactory.example1.characters;
 
-public class BlueCharacter implements Character{
+public class BlueCharacter implements Character {
 
     @Override
     public void write() {

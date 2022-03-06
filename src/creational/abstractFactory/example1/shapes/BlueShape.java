@@ -1,4 +1,4 @@
-package creational.abstractFactory.example1;
+package creational.abstractFactory.example1.shapes;
 
 public class BlueShape implements Shape {
     @Override
