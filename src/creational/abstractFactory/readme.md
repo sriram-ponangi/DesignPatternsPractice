@@ -1,7 +1,9 @@
 ### Definition:
 
 **Abstract Factory** is a creational design pattern, which is used to create a
-**family of related/dependent classes** without specifying their concrete classes.
+**family of related/dependent classes** without specifying their concrete classes. 
+Unlike the **factory method** pattern which is used to create a dependency of one type in a class.
+
 
 **Abstract Factory** uses **composition principle**. That is, it can have other factories
 as dependencies with which we create the family of related/dependent classes.
